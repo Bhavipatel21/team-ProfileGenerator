@@ -169,7 +169,7 @@ function compileTeam() {
     for (let i = 1; i < myTeamArray.length; i++) {
          let object = `
   <div class="col">
-    <div class="card">
+    <div class="card mb-3 mt-3">
         <div class="card-body">
           <div class="card-header bg-primary text-white" style="font-size: 20px;">${myTeamArray[i].name}
             <p><i class="${myTeamArray[i].icon}"></i> ${myTeamArray[i].title}</p>
