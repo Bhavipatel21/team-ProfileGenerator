@@ -148,7 +148,7 @@ function compileTeam() {
     <html lang="en">
       <head>
         <meta charset="UTF-8" />
-        <title>My Team</title>
+        <title>${myTeamArray[0]}</title>
         <!-- Latest compiled and minified CSS & JS -->
         <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"/>
         <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"/>

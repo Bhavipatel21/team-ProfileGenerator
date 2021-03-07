@@ -16,18 +16,30 @@ A Node.js application which takes in inforamtion about an employess on your team
 
 ## Installation Instructions
 
+You will need node.js installed 
+* [Node.js](https://en.wikipedia.org/wiki/Node.js)
+
 To install the required dependencies, please run the following command:
 
-```
-You will need node.js Installed
-```
+* [inquirer](https://www.npmjs.com/package/inquirer/v/0.2.3)
+* [jest](https://www.npmjs.com/package/jest)
 
+```
+npm init -y
+npm i inquirer 
+npm install --save jest
+
+```
 ## Usage
-Walkthough of creating Team Profile
+Walkthough of creating Team Profile :
 
-## Mock-up :
+[Video](https://drive.google.com/file/d/1_kdt6BCAOTt-0u6-ZDpctdbRTrltWK8K/view)
+
 ![How to create team Profile](./assets/images/myTeamProfile.jpg)
 
+## Mock-up :
+
+![Team Profile Page](./assets/images/vandelayIndustries.jpg)
 
 
 ## Contribution Guidelines
