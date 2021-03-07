@@ -3,6 +3,8 @@ class Employee {
         this.name = name;
         this.id = id;
         this.email = email;
+        this.title='Employee';
+        
 
     }
 
@@ -16,7 +18,8 @@ class Employee {
         return this.email;
     }
     getRole() {
-    }
+        return this.title
+        }
 
 }
 
